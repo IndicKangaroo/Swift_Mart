@@ -32,7 +32,6 @@ import OlxMarketplace from "./pages/OlxMarketplace.jsx";
 
 
 import OlxProductDetail from "./pages/OlxProductDetail.jsx";
-import OlxCart from "./pages/OlxCart.jsx";
 import OlxPurchases from "./pages/OlxPurchases";
 import PurchaseSuccess from "./pages/PurchaseSuccess";
 import AdminProductsDashboard from "./components/AdminProductsDashboard";
